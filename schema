@@ -1,0 +1,9 @@
++------------------+
+| YogaParticipant  |
++------------------+
+| id (PK)          |
+| name             |
+| age              |
+| selected_batch   |
+| enrolled_at      |
++------------------+
